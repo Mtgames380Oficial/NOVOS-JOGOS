@@ -2853,7 +2853,7 @@
     "http://archive.org/download/ps4-fpkg-collection-english-g/God%20of%20War%20-%20[EU]%20[EN]%20[1.35].pkg": {
       "title_id": "CUSA07410",
       "região": "EUR",
-      "nome": "Deus da Guerra",
+      "nome": "God OF War",
       "versão": "01.35",
       "lançamento": "15-11-2013",
       "tamanho": 38131335168,
@@ -2873,7 +2873,7 @@
     "http://archive.org/download/ps4-fpkg-collection-english-g/God%20of%20War%20Ragnarök%20-%20[US]%20[EN]%20[6.05].pkg": {
       "title_id": "CUSA34384",
       "região": "EUA",
-      "nome": "Deus da Guerra Ragnarök",
+      "nome": "God Of War Ragnarök",
       "versão": "06.05",
       "lançamento": "15-11-2013",
       "tamanho": 98290368512,
@@ -8652,4 +8652,5 @@
     }
   }
 }
+
 
